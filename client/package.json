@@ -1,0 +1,15 @@
+{
+  "name": "insights-full-stack-ex-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server --port 3031"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.11.1",
+    "live-server": "^1.2.1"
+  }
+}
