@@ -2,7 +2,7 @@
 
 **Boilerplate client and server for WalkMe Insights dev interview task.**
 
-Client: Very simple html, js, css files.
+Client: Simple webpack starter - html, js, css files, wired up for development.
 
 Server: Very simple express server
 
